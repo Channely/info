@@ -1,0 +1,11 @@
+[
+    {
+        "type": "path",
+        "aim": {
+            "name": "JavaScript"
+        },
+        "basic": {
+            "desc": "这是修改后的描述"
+        }
+    }
+]

@@ -1,8 +1,8 @@
 {
     "insert":[
-        "insert_paths.json","insert_course.json","insert_sections.json","insert_project.json","insert_files.json"
     ],
     "update":[
+        "update_path_desc.json"
     ],
     "delete":[
     ],
