@@ -1,0 +1,14 @@
+[
+    {
+        "type": "file",
+        "basic": {
+            "name": "index.html",
+            "path": "/angular part-one template/"
+        },
+        "extra": {
+            "project": {
+                "name": "angular section-one project"
+            }
+        }
+    }
+]
