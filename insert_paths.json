@@ -1,0 +1,35 @@
+[
+    {
+        "type": "path",
+        "basic": {
+            "name": "JavaScript",
+            "desc": "JavaScript是面向Web编程语言。大多数现在网站都使用JavaScript,并且Android、IOS、Windows、Linux的浏览器均支持JavaScript。",
+            "order": 0,
+            "ico": "images/JS.PNG",
+            "title": "images/Javascript.png",
+            "is_open": true
+        }
+    },
+    {
+        "type": "path",
+        "basic": {
+            "name": "HTML5",
+            "desc": "超文本标记语言 (HTML) 是web内容的核心语言。在浏览器屏幕上所看到的内容，它们都是用HTML语言来进行描述的。",
+            "order": 1,
+            "ico": "images/html5.png",
+            "title": "images/HTML.png",
+            "is_open": false
+        }
+    },
+    {
+        "type":"path",
+        "basic":{
+            "name": "CSS",
+            "desc": "CSS是一种样式表语言，CSS的全称是Cascading Style Sheets（级联样式表)，它用于为HTML文档定义布局，并提供了更多选择，而且更为精确、完善。",
+            "order": 2,
+            "ico": "images/CSS_logo.png",
+            "title": "images/CSS.png",
+            "is_open": false
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "project",
+        "basic": {
+            "name": "angular section-one project",
+            "desc": "angular section-one project desc",
+            "template_tar": "angular part-one template.tar.gz",
+            "answer_tar": "AngularJS-LunchMasterDemo.tar.gz",
+            "un_tar_name": "angular part-one template"
+        }
+    },
+    {
+        "type":"file",
+        "basic":{
+            "name": "index.html",
+            "path": "/angular part-one template/"
+        },
+        "extra":{
+            "project":{
+                "name": "angular section-one project"
+            }
+        }
+    }
+]

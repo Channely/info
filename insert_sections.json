@@ -1,0 +1,15 @@
+[
+    {
+        "type":"section",
+        "basic":{
+            "name": "angular: template view",
+            "desc": "本节通过练习路由的配置,了解如何正确的展示一个页面,以及了解创建一个页面所需的资源有哪些.",
+            "order": 0,
+            "video": "XNjY1NzA4MTQ4",
+            "type":"normal"
+        },
+        "extra":{
+            "course":"Angular JS"
+        }
+}
+]

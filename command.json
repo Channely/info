@@ -1,0 +1,11 @@
+{
+    "insert":[
+        "insert_paths.json","insert_course.json","insert_sections.json"
+    ],
+    "update":[
+    ],
+    "delete":[
+    ],
+    "cp_file":[
+    ]
+}
