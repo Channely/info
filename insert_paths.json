@@ -8,7 +8,8 @@
             "ico": "images/JS.PNG",
             "title": "images/Javascript.png",
             "is_open": true
-        }
+        },
+        "extra":[]
     },
     {
         "type": "path",
@@ -19,7 +20,8 @@
             "ico": "images/html5.png",
             "title": "images/HTML.png",
             "is_open": false
-        }
+        },
+        "extra":[]
     },
     {
         "type":"path",
@@ -30,6 +32,7 @@
             "ico": "images/CSS_logo.png",
             "title": "images/CSS.png",
             "is_open": false
-        }
+        },
+        "extra":[]
     }
 ]
