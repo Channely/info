@@ -1,6 +1,6 @@
 {
     "insert":[
-        "insert_paths.json","insert_course.json","insert_sections.json"
+        "insert_paths.json","insert_course.json","insert_sections.json","insert_project.json"
     ],
     "update":[
     ],
