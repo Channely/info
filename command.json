@@ -2,10 +2,10 @@
     "insert":[
     ],
     "update":[
-        "update_path_desc.json"
     ],
     "delete":[
     ],
     "cp_file":[
+        "cp_file_command.json"
     ]
 }
